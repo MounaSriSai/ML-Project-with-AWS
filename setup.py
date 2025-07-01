@@ -8,7 +8,7 @@ __version__ = "0.0.0"
 
 REPO_NAME = "ML-Project-with-AWS"
 AUTHOR_USER_NAME = "MounaSriSai"
-SRC_REPO = "mlProj"
+SRC_REPO = "MLproject"
 AUTHOR_EMAIL = "msrisai.p@gmail.com"
 
 
